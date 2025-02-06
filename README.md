@@ -18,3 +18,7 @@ This project examines **traffic stop trends, demographics, and potential biases*
 - **Methods:** T-tests, Chi-Square Tests, Regression, Correlation Analysis
 - **Visualizations:** Bar charts, scatter plots, box plots, correlation heatmaps
 
+## 🚀 How to Run
+ Clone the repository:  
+   ```sh
+   git clone https://github.com/SiddharthGautam007/NSP-Violation-Analysis.git
